@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36231134-c0f9-4730-8215-974501c1852b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/anshuman/dpProblems/FibonacciBottomUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/anshuman/dpProblems/FibonacciBottomUpEnhanced.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/anshuman/dpProblems/FibonacciMemoization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/anshuman/dpProblems/FibonacciNaiveRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/anshuman/dpProblems/TripleStep.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dp-problems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dp-problems.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/anshuman/dpProblems/DPProblems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anshuman/dpProblems/FibonacciTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/anshuman/dpProblems/DPProblems.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,8 +31,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/anshuman/dpProblems/FibonacciBottomUp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="11" column="103" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="103" />
+            <state relative-caret-position="180">
+              <caret line="11" column="103" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="103" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/anshuman/dpProblems/FibonacciBottomUpEnhanced.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="581">
+              <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,10 +53,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/anshuman/dpProblems/FibonacciBottomUpEnhanced.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/anshuman/dpProblems/TripleStep.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="30" column="15" lean-forward="true" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+            <state relative-caret-position="174">
+              <caret line="39" column="54" selection-start-line="39" selection-start-column="54" selection-end-line="39" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,6 +116,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/anshuman/dpProblems/FibonacciBottomUp.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/anshuman/dpProblems/FibonacciBottomUpEnhanced.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/anshuman/dpProblems/FibonacciTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/anshuman/dpProblems/TripleStep.java" />
       </list>
     </option>
   </component>
@@ -122,10 +127,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="983" />
+    <option name="width" value="1680" />
+    <option name="height" value="953" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -183,7 +188,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558163780992" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558178113482" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -202,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TripleStep">
     <configuration name="FibonacciTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.anshuman.dpProblems.FibonacciTest" />
       <module name="dp-problems" />
@@ -216,8 +221,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TripleStep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.anshuman.dpProblems.TripleStep" />
+      <module name="dp-problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anshuman.dpProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TripleStep" />
         <item itemvalue="Application.FibonacciTest" />
       </list>
     </recent_temporary>
@@ -234,18 +253,19 @@
       <updated>1558150169760</updated>
       <workItem from="1558150172388" duration="1807000" />
       <workItem from="1558160255268" duration="1736000" />
-      <workItem from="1558162987343" duration="792000" />
+      <workItem from="1558162987343" duration="1388000" />
+      <workItem from="1558177728688" duration="384000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4335000" />
+    <option name="totallyTimeSpent" value="5315000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="983" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="953" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27873254" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32552403" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -254,7 +274,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5155351" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.53277713" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -293,6 +313,23 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/anshuman/dpProblems/FibonacciTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="118" selection-start-line="15" selection-start-column="118" selection-end-line="15" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/anshuman/dpProblems/FibonacciBottomUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="103" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="103" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/anshuman/dpProblems/FibonacciNaiveRecursion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -313,27 +350,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/anshuman/dpProblems/FibonacciBottomUp.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/anshuman/dpProblems/FibonacciBottomUpEnhanced.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="11" column="103" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="103" />
+        <state relative-caret-position="581">
+          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/anshuman/dpProblems/FibonacciTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/anshuman/dpProblems/TripleStep.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="118" selection-start-line="15" selection-start-column="118" selection-end-line="15" selection-end-column="118" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/anshuman/dpProblems/FibonacciBottomUpEnhanced.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="30" column="15" lean-forward="true" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+        <state relative-caret-position="174">
+          <caret line="39" column="54" selection-start-line="39" selection-start-column="54" selection-end-line="39" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
